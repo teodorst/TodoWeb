@@ -1,0 +1,12 @@
+.logoBackground {
+  background-color: red;
+}
+
+.loginInput {
+  height: 2em;
+}
+
+.loginLabel {
+  height: 1em;
+  font-size: 80%;
+}
